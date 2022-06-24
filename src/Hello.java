@@ -5,3 +5,4 @@ public class Hello {
         System.out.print("AAA");
     }
 }
+awdawd
